@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.orientechnologies:orientdb-enterprise:2.1.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.orientechnologies/orientdb-enterprise/2.1.9/80c3ba2e56f107000d74dca20fc74fd5051e7045/orientdb-enterprise-2.1.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.orientechnologies/orientdb-enterprise/2.1.9/868eabdadf4d31f57a2fd1e11ab7c965048a3cee/orientdb-enterprise-2.1.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
